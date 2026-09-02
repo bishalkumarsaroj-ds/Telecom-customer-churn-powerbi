@@ -1,4 +1,4 @@
-# Telecom Customer Churn Dashboard (Power BI)
+# telecom Customer Churn Dashboard (Power BI)
 
 Interactive Power BI dashboard analyzing customer churn across segments, 
 contracts, tenure, and payment methods for a telecom company.
